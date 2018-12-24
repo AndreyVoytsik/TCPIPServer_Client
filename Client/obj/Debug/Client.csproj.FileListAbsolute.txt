@@ -1,0 +1,8 @@
+C:\Users\Andrey\source\repos\TCPIPTest\Client\bin\Debug\Client.exe.config
+C:\Users\Andrey\source\repos\TCPIPTest\Client\bin\Debug\Client.exe
+C:\Users\Andrey\source\repos\TCPIPTest\Client\bin\Debug\Client.pdb
+C:\Users\Andrey\source\repos\TCPIPTest\Client\bin\Debug\SimpleTCP.dll
+C:\Users\Andrey\source\repos\TCPIPTest\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\source\repos\TCPIPTest\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\Andrey\source\repos\TCPIPTest\Client\obj\Debug\Client.exe
+C:\Users\Andrey\source\repos\TCPIPTest\Client\obj\Debug\Client.pdb

@@ -1,0 +1,9 @@
+C:\Users\Andrey\source\repos\TCPIPTest\TCPIPTest\bin\Debug\TCPIPTest.exe.config
+C:\Users\Andrey\source\repos\TCPIPTest\TCPIPTest\bin\Debug\TCPIPTest.exe
+C:\Users\Andrey\source\repos\TCPIPTest\TCPIPTest\bin\Debug\TCPIPTest.pdb
+C:\Users\Andrey\source\repos\TCPIPTest\TCPIPTest\bin\Debug\SimpleTCP.dll
+C:\Users\Andrey\source\repos\TCPIPTest\TCPIPTest\obj\Debug\TCPIPTest.csprojAssemblyReference.cache
+C:\Users\Andrey\source\repos\TCPIPTest\TCPIPTest\obj\Debug\TCPIPTest.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\source\repos\TCPIPTest\TCPIPTest\obj\Debug\TCPIPTest.csproj.CopyComplete
+C:\Users\Andrey\source\repos\TCPIPTest\TCPIPTest\obj\Debug\TCPIPTest.exe
+C:\Users\Andrey\source\repos\TCPIPTest\TCPIPTest\obj\Debug\TCPIPTest.pdb
